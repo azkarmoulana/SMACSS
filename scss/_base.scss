@@ -1,0 +1,17 @@
+// All the defaul styles goes here
+
+body{
+    font-family: sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+a{
+    color: red;
+    &:hover{
+        color: blue;
+    }
+}
+   
