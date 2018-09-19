@@ -1,3 +1,16 @@
+body {
+  font-family: sans-serif;
+}
 
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: red;
+}
+a:hover {
+  color: blue;
+}
 
 /*# sourceMappingURL=index.css.map */
